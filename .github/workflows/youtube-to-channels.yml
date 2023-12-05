@@ -1,4 +1,4 @@
-name: 'Generate streams links from YouTube live channels'
+name: 'Generate streams links from YouTube live channels' 
 on:
   schedule: ## Schedule to run every three hours
     - cron: '0 0/3 * * *'
