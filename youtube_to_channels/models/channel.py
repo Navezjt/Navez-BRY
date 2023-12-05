@@ -1,4 +1,4 @@
-from typing import NamedTuple 
+from typing import NamedTuple
 
 class Channel(NamedTuple):
     id: str
