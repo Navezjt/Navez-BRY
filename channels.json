@@ -2,28 +2,35 @@
   {
     "id": "SBTNacional.br",
     "name": "SBT Central Live",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714565543/ei/R90xZsKUCcWYsfIP9b6xkAk/ip/20.172.43.101/id/A5y_U09vUxU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7iohWoA119_WENV4lmdHwS9HcdFbXwqJTVX96OhzkFfu9qcF8LBCUJ4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPwd3PDYxudEnnt2cUOOazl10_Q5wY29uFyhkqmmoyUUCIQDpdTr5tY1e_HELi3Sbd8TQ6_45uMrDcwXapP56bgsBYQ%3D%3D/file/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714576174/ei/zgYyZo-tAs-mkucP6cSH6Ag/ip/20.97.191.130/id/A5y_U09vUxU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwoGU8I80ixyby8nwqekGcizJQoWa2oIBBnJ4Alxtb4FfWbZ9-_X3an8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPazTOtQT3L2HZafR4hkMoszZkVum17enRsfPabmJEE-AiEA9tW_08yVQBAzraE8Zwjl4ODtZFaEaWbd60W5hlIDkgY%3D/file/index.m3u8",
     "logo": "https://cdn.mitvstatic.com/channels/br_sbt_m.png",
     "group": "general"
   },
   {
+    "id": "JovemPanNews.br",
+    "name": "Jovem Pan Live",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714576175/ei/zgYyZpePO-ihkucPv9eWcA/ip/20.97.191.130/id/xt2TfBcOdSs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6npnfyFO77SrJSbN5LzFA8WHCXFPKDg06HD8Lah__8dEn4xwuvz5oCg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOLNmBfiFlV9ioi4DFVX8oo3sQIcej4zRiWf2vIX9e9kAiBneZ9x8C7CQhrhGRJUoVpS2nauZQCCZuGT9QV7bRNJoQ%3D%3D/file/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png",
+    "group": "news"
+  },
+  {
     "id": "RecordNews.br",
     "name": "Record News Live",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714565546/ei/St0xZu0R-cCx8g_AsrjADg/ip/20.172.43.101/id/_liIBGf9gIQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fy-nvuKj5Biu9nfImAlqU2iu9HYAoYb_MOieq8ywrGrRigyl8Hfo5trg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgCb9bUWDhYtqFFiROLU9WD4XPZ__ZrodUUS2Li5uuB0sCIQCGgQQxhQhQei5960j0PfiIoYgqHIIJi4A9yTzDMWqGng%3D%3D/file/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714576175/ei/zwYyZuWTIPWckucP-uyycA/ip/20.97.191.130/id/_liIBGf9gIQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8FH_a9o5GImRlvKCYokJsV66C0-jZo2ubY2194VVWdhBd9PF3Y-s7uk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOzGG3OYUZfJJyrRHTVc2nk2JkJdV719__n1lbqiR-PcCIH92daYWwc8DznbRxUagffs3Yy6mgVpZglDYzwAlh2mY/file/index.m3u8",
     "logo": "https://yt3.googleusercontent.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt=s176-c-k-c0x00ffffff-no-rj",
     "group": "news"
   },
   {
     "id": "PowerRangersTV.br",
     "name": "PowerRangers TV",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714565547/ei/S90xZrP8Fu-DsfIP2o-Y4AE/ip/20.172.43.101/id/kQxnFIoCqbE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7fzw7nTZhB-nTptOde7lXNmDxgNPmdj2W994m0Z-hMsEv_0WdcB_MEG/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANbvhvlIL9mP7S5E_CmOiWeSh-QwQJp8Qdo84NuOMCKHAiBLZq9dWX3N05zospoZTrXhXJghK7FV26MI_z8yVeLOqQ%3D%3D/file/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714576176/ei/0AYyZsmLCLuokucP64626Ag/ip/20.97.191.130/id/kQxnFIoCqbE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_pFE5w0d7Ix37xA42cVhNZ82elN_7fwF-ZZVM0pkiasWdVQUjtUheQd/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBLLrJrYDtDYkBDJ40QewarjwJvf7jcwg6GO87PuliFQCIFNAEI7mQs9q5np5m6HBJTlW8fJqB9TnnJ2akNncGSmN/file/index.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1803aa8768a96c38aa19d7bc3f0cf98f.webp",
     "group": "series"
   },
   {
     "id": "BabyBus.br",
     "name": "Baby Bus",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714565548/ei/TN0xZqK5KtTWsfIPv8OLgAg/ip/20.172.43.101/id/A_F7YUI_OMg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3DGzGc7A9kHz0nXoJ0slUU4jDuATDUap1VH8IEhCwzjM8jqOPs5rzcd/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHubjaHcwudGCETd5XpPt1SXBO3FmdKMLyd9ichpMaQcCIQCDtqCURvnxWu0PQ5tkxb0qKHeURsHyNsE3XdtCXhYk5Q%3D%3D/file/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714576176/ei/0AYyZvXkLMyBkucPvuiygAE/ip/20.97.191.130/id/A_F7YUI_OMg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5X3Sxyi8gIHHnBtZHticc5ZXriKkwOCgOxi0vI_RRO1Gt4wmmADXVOU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgExaZ2TONhAE42bBfIXA8GuePPHuwMDQEXnvKCUdllugCIQCKo9iP69H4AtG6Rnh_2PNFGRAsqVU85DW-nkY5BCc6Lg%3D%3D/file/index.m3u8",
     "logo": "https://yt3.ggpht.com/ytc/AMLnZu-z-KRyClup--esKMFo5aOruxVnrOBACXid_otlnw=s176-c-k-c0x00ffffff-no-rj",
     "group": "kids"
   }
