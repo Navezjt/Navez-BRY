@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "PowerRangersTV.br",
+    "name": "PowerRangers TV",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727557829/ei/ZRz4ZsOeHYTXsfIPjYWM8Q8/ip/20.172.5.83/id/8LI9Kv0axRs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51273601/txs/51273600%2C51273601%2C51273602%2C51273605/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxYr3xEoglI6LqLV-1sKHHsP7TUCUEjxlLL6pcfLhfzshkrb-vBmAQV8dUgk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJ_yyQOc3-TpJJ7f95FE1s1kJfjYTWEMZ5eHvqeTVV-cCIEGyrJoOxUNWBkwbfnJLs0GGRB9UzfC9RSHGJJY16zcy/file/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1803aa8768a96c38aa19d7bc3f0cf98f.webp",
+    "group": "series"
+  }
+]
